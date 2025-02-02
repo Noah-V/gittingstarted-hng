@@ -15,7 +15,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.noahvikoo.gittingstartedhng",
+      "enableProguardInReleaseBuilds": true
     },
     "web": {
       "bundler": "metro",
